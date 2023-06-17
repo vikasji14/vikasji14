@@ -1,11 +1,11 @@
 ![MasterHead](https://media.licdn.com/dms/image/D4D16AQEYskZnrtkn4Q/profile-displaybackgroundimage-shrink_350_1400/0/1679573068749?e=1692230400&v=beta&t=EtU92-EnJjtA6il31UACQK1bcyUQmVvF-ILvgUiwZ4k)
 <h1><pre align="center">Hi    , I'm Vikas Kumar.</pre></h1>
 <h3 align="center">An Engineering Student at Muzaffarpur Institute of Technology</h3>
-<img align="right" alt="vikas" widht="800" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
+<img align="right" alt="vikas" widht="300" height="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
 
 
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
 
 - 🔭 I’m currently Working [Junoon : Arts and Cultural Club](fiestamit.in)
 

@@ -2,7 +2,7 @@
 <h1><pre align="center">Hi    , I'm Vikas Kumar.</pre></h1>
 <h3 align="center">An Engineering Student at Muzaffarpur Institute of Technology</h3>
 <br/><br/>
-<img align="right" alt="vikas" widht="300" height="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
+<img align="right" alt="vikas" widht="500" height="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
 
 
 
@@ -12,11 +12,11 @@
 
 - 🌱 I’m currently learning **React Native , Java**
 
-- 💬 Ask me about **Mearn,Competitive programming**
+- 💬 Ask me about **MERN,Competitive programming**
 
 - 📫 How to reach me **vikasdbg453@gmail.com**
 
-- ⚡ Fun fact **I am a quick learner.**
+- ⚡ **I love to Code and listen to music 🦑𝗝𝗮𝘃𝗮 🧑🏻‍💻𝗨𝗯𝘂𝗻𝘁𝘂 🕸️𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.**
 <br/><br/><br/><br/><br/><br/>
 <h3 align="left">Connect with me:</h3>
 <p align="left">

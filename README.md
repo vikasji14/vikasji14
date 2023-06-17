@@ -1,10 +1,9 @@
-<h1 align="center">Respected Sir I am Vikas Kumar.</h1>
+![MasterHead](https://media.licdn.com/dms/image/D4D16AQEYskZnrtkn4Q/profile-displaybackgroundimage-shrink_350_1400/0/1679573068749?e=1692230400&v=beta&t=EtU92-EnJjtA6il31UACQK1bcyUQmVvF-ILvgUiwZ4k)
+<h1><pre align="center">Hi    , I'm Vikas Kumar.</pre></h1>
 <h3 align="center">An Engineering Student at Muzaffarpur Institute of Technology</h3>
-<img alt="vikas" widht="400" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
+<img align="right" alt="vikas" widht="800" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubinfovikas&label=Profile%20views&color=0e75b6&style=flat" alt="githubinfovikas" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubinfovikas" alt="githubinfovikas" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -35,7 +34,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=githubinfovikas&show_icons=true&locale=en" alt="githubinfovikas" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubinfovikas&" alt="githubinfovikas" /></p>
-Join Community
-Discord of the community
-Developed in India 🇮🇳
-Buy Me A Coffee
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=githubinfovikas&label=Profile%20views&color=0e75b6&style=flat" alt="githubinfovikas" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=githubinfovikas" alt="githubinfovikas" /></a> </p>

@@ -6,8 +6,6 @@
 
 
 
-
-
 - 🔭 I’m currently Working [Junoon : Arts and Cultural Club](fiestamit.in)
 
 - 🌱 I’m currently learning **React Native , Java**
@@ -16,7 +14,7 @@
 
 - 📫 How to reach me **vikasdbg453@gmail.com**
 
-- ⚡ **I love to Code and listen to music 🦑𝗝𝗮𝘃𝗮 🧑🏻‍💻𝗨𝗯𝘂𝗻𝘁𝘂 🕸️𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.**
+- ❤️ **I love to Code and listen to music 🦑𝗝𝗮𝘃𝗮 🧑🏻‍💻𝗨𝗯𝘂𝗻𝘁𝘂 🕸️𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.**
 <br/><br/><br/>
 
 <br/><br/>

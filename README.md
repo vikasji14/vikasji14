@@ -6,9 +6,7 @@
 
 
 
-- 🔭 I’m currently Working [Junoon : Arts and Cultural Club](fiestamit.in)
-
-- 🌱 I’m currently learning **React Native , Java**
+- 🌱 I’m currently learning **MERN Stack , React Native , Java**
 
 - 💬 Ask me about **MERN,Competitive programming**
 

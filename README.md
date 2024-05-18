@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **MERN Stack , React Native , Java**
 
-- 💬 Ask me about **MERN,Competitive programming**
+- 💬 Ask me about **MERN,Competitive programming, Problem Solving **
 
 - 📫 How to reach me **vikasdbg453@gmail.com**
 

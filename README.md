@@ -1,4 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/D4D16AQEYskZnrtkn4Q/profile-displaybackgroundimage-shrink_350_1400/0/1679573068749?e=1692230400&v=beta&t=EtU92-EnJjtA6il31UACQK1bcyUQmVvF-ILvgUiwZ4k)
 <h1><pre align="center">Hi , I'm Vikas Kumar.</pre></h1>
 <h3 align="center">An Engineering Student at Muzaffarpur Institute of Technology</h3>
 <br/><br/>

@@ -2,7 +2,7 @@
 <h1><pre align="center">Hi , I'm Vikas Kumar.</pre></h1>
 <h3 align="center">An Engineering Student at Muzaffarpur Institute of Technology</h3>
 <br/><br/>
-<img align="right" alt="vikas" widht="500" height="300" src="https://t4.ftcdn.net/jpg/01/35/92/85/360_F_135928597_xU5EzKq6vpOeXPX5vsbI48zfVVkSRlrF.jpg"> 
+<img align="right" alt="vikas" widht="500" height="300" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif"> 
 
 
 

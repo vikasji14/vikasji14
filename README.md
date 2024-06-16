@@ -17,10 +17,10 @@
 
 ### Connect With Me:
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/abusaid.riyaz)
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abu-said-bd/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/abu_said_bd)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/said7388)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abusaid7388@gmail.com)
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/v-it-mitm/) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikasvikas.it)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
+[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasdbg453@gmail.com)
 
 ---
 
@@ -74,12 +74,10 @@
 ### Top Repositories
 
 
-<a href="https://github.com/said7388/developer-portfolio">
+<a href="https://github.com/githubinfovikas/">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=githubinfovikas&repo=developer-portfolio&theme=algolia" />
 </a>
-<a href="https://github.com/said7388/Express-Postgres-blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=githubinfovikas&repo=Express-Postgres-blog&theme=algolia" />
-</a>
+
 
 
 

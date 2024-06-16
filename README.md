@@ -75,7 +75,7 @@
 
 
 <a href="https://github.com/githubinfovikas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=githubinfovikas&repo=developer-portfolio&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=githubinfovikas&repo=portfolio&theme=algolia" />
 </a>
 
 

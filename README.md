@@ -57,9 +57,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=githubinfovikas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vikas GitHub status" />
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubinfovikas&theme=algolia" alt="githubinfovikas" />
 </p>
-<p>
-  
-</p>
+
 
 <a href="https://github.com/githubinfovikas/gihubinfovikas">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githubinfovikas&theme=radical&hide_border=true)](https://github.com/githubinfovikas" alt="Vikas's GitHub Stats Graph"/>

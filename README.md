@@ -54,17 +54,24 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=githubinfovikas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Abu Said's GitHub status" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=githubinfovikas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vikas GitHub status" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubinfovikas&theme=algolia" alt="githubinfovikas" />
 </p>
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubinfovikas&theme=algolia" alt="said7388" />
+  
 </p>
+
+<a href="https://github.com/githubinfovikas/gihubinfovikas">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githubinfovikas&theme=radical&hide_border=true)](https://github.com/githubinfovikas" alt="Vikas's GitHub Stats Graph"/>
+</a>
 
 ---
 
 ### Top Usage Languages:
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubinfovikas&layout=compact&theme=algolia&hide_border=true&&langs_count=10" />
+<a href="https://github.com/githubinfovikas/githubinfovikas">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubinfovikas&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
+</a>
 
 ---
 

@@ -5,6 +5,8 @@
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=githubinfovikas&color=brightgreen)
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=githubinfovikas.githubinfovikas" />
+
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
 - 🌱 Trying to become an expert in Fullstack development ❤

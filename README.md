@@ -61,7 +61,7 @@
 </p>
 
 
-<a href="https://github.com/githubinfovikas/gihubinfovikas">
+<a align="center" href="https://github.com/githubinfovikas/gihubinfovikas">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githubinfovikas&theme=radical&hide_border=true)](https://github.com/githubinfovikas" alt="Vikas's GitHub Stats Graph"/>
 </a>
 
@@ -69,7 +69,7 @@
 
 ### Top Usage Languages:
 
-<a href="https://github.com/githubinfovikas/githubinfovikas">
+<a align="center" href="https://github.com/githubinfovikas/githubinfovikas">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubinfovikas&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
 </a>
 

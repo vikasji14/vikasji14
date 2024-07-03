@@ -4,8 +4,8 @@
   </a>
 </h1>
 
-![](https://komarev.com/ghpvc/?username=githubinfovikas&color=brightgreen)
-     <img src="https://visitor-badge.laobi.icu/badge?page_id=githubinfovikas.githubinfovikas" />
+![](https://komarev.com/ghpvc/?username=vikasji14&color=brightgreen)
+     <img src="https://visitor-badge.laobi.icu/badge?page_id=vikasji14.vikasji14" />
 
 
 - 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
@@ -56,21 +56,21 @@
 ### My Github Stats:
 
 <p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=githubinfovikas&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vikas GitHub status" />
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=githubinfovikas&theme=algolia" alt="githubinfovikas" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=vikasji14&show_icons=true&include_all_commits=true&theme=algolia&hide_border=true" alt="Vikas GitHub status" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vikasji14&theme=algolia" alt="vikasji14" />
 </p>
 
 
-<a align="center" href="https://github.com/githubinfovikas/gihubinfovikas">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=githubinfovikas&theme=radical&hide_border=true)](https://github.com/githubinfovikas" alt="Vikas's GitHub Stats Graph"/>
+<a align="center" href="https://github.com/vikasji14/gihubinfovikas">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikasji14&theme=radical&hide_border=true)](https://github.com/vikasji14" alt="Vikas's GitHub Stats Graph"/>
 </a>
 
 ---
 
 ### Top Usage Languages:
 
-<a align="center" href="https://github.com/githubinfovikas/githubinfovikas">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=githubinfovikas&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
+<a align="center" href="https://github.com/vikasji14/vikasji14">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasji14&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20" />
 </a>
 
 ---
@@ -81,8 +81,8 @@
 ### Top Repositories
 
 
-<a href="https://github.com/githubinfovikas/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=githubinfovikas&repo=developer-portfolio&theme=algolia" />
+<a href="https://github.com/vikasji14/">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vikasji14&repo=developer-portfolio&theme=algolia" />
 </a>
 
 

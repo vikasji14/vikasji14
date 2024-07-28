@@ -9,11 +9,14 @@
      <img src="https://visitor-badge.laobi.icu/badge?page_id=vikasji14.vikasji14" />
 
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps + Java Programing.).😎
-- 🌱 Trying to become an expert in Fullstack development ❤
-- 💻 I love exploring new tech stacks and building cool stuff.
-- 📰 Reading tech documentation whenever possible.
-- 💻 Solve 700+ question on CodeChef + GFG + HackerRank + Leetcode.
+- 🔭 Focusing on FullStack development, including Frontend, Backend, DevOps, and Java programming. 😎
+- 🌱 Aspiring to become an expert in FullStack development. ❤️
+- 💻 Passionate about exploring new tech stacks and building innovative projects.
+- 📰 Enjoy reading tech documentation and staying updated with the latest trends.
+- 💻 Solved over 700 questions on platforms like CodeChef, GeeksforGeeks, HackerRank, and LeetCode.
+- 👉🏻 [Check out My Resume](https://drive.google.com/file/d/13BvVdOpDJJxBvxYtM8FqdcQ49YG63HYB/view?usp=sharing)
+- 
+
 
 ---
 
@@ -24,6 +27,9 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/vikasvikas.it)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vikasdbg453@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=internet-explorer&logoColor=white)](https://vikasji.netlify.app/)
+
+
 
 ---
 

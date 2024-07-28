@@ -15,7 +15,6 @@
 - 📰 Enjoy reading tech documentation and staying updated with the latest trends.
 - 💻 Solved over 700 questions on platforms like CodeChef, GeeksforGeeks, HackerRank, and LeetCode.
 - 👉🏻 [Check out My Resume](https://drive.google.com/file/d/13BvVdOpDJJxBvxYtM8FqdcQ49YG63HYB/view?usp=sharing)
-- 
 
 
 ---
@@ -40,7 +39,7 @@
 </p>
 
 
-### frentend Technology
+### Frentend Technology
 
   <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML" width="100" height="30">

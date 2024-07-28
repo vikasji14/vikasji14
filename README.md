@@ -1,7 +1,8 @@
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+<!--   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Vikas+Kumar....;Nice+to+meet+you!&center=true&size=30">
-  </a>
+  </a> -->
+  <p align="center"><a href="https://vikasji14.github.io"><img width="80%" alt="Hello, I'm Vikas Kumar I do open source!" src="./assets/gh-readme-header.png" /></a></p>
 </h1>
 
 ![](https://komarev.com/ghpvc/?username=vikasji14&color=brightgreen)

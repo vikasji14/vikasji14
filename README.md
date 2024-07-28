@@ -8,12 +8,11 @@
      <img src="https://visitor-badge.laobi.icu/badge?page_id=vikasji14.vikasji14" />
 
 
-- 🔭 Focusing on FullStack (Frontend + Backend + DevOps).😎
+- 🔭 Focusing on FullStack (Frontend + Backend + DevOps + Java Programing.).😎
 - 🌱 Trying to become an expert in Fullstack development ❤
 - 💻 I love exploring new tech stacks and building cool stuff.
 - 📰 Reading tech documentation whenever possible.
-- 🥅 2024 Goals: Learn Cloud on AWS and Azure.
-- ⚡ Fun fact: Equal is Not Always Equal in Javascript.🤣
+- 💻 Solve 700+ question on CodeChef + GFG + HackerRank + Leetcode.
 
 ---
 

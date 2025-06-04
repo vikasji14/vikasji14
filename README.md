@@ -4,7 +4,7 @@
 
 <h4>🔭 Python, Java | MERN, FastaAPI, Django | DevOps, AWS (EC2, S3) | AI/ML Enthusiast | Software Developer @Vitti AI </h4>
 
-- 👉🏻 [Check out My Resume](https://drive.google.com/file/d/13BvVdOpDJJxBvxYtM8FqdcQ49YG63HYB/view?usp=sharing)
+- 👉🏻 [Check out My Resume](https://github.com/vikasji14/Bucket/blob/main/vikas_kumar_resume.pdf)
 
 
 

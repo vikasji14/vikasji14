@@ -20,18 +20,9 @@
 
 
 
-### My Github Stats:
-
-
+### My Github Graph:
 <a align="center" href="https://github.com/vikasji14/gihubinfovikas">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vikasji14&theme=radical&hide_border=true)](https://github.com/vikasji14" alt="Vikas's GitHub Stats Graph"/>
-</a>
-
-
-### Top Usage Languages:
-
-<a align="center" href="https://github.com/vikasji14/vikasji14">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikasji14&hide=less&title_color=d13979&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=20&layout=compact" />
 </a>
 
 
